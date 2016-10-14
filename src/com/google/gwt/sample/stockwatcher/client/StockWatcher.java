@@ -31,6 +31,7 @@ public class StockWatcher implements EntryPoint {
 
   /**
    * Create a remote service proxy to talk to the server-side Greeting service.
+   * lkmfaldsmflkdsmflkmdsfmdsflkmdslkfmdslkfmsdlkmlkmlkmdslfmslkfmds
    */
   private final GreetingServiceAsync greetingService = GWT.create(GreetingService.class);
 
