@@ -51,7 +51,7 @@ public class StockWatcher implements EntryPoint {
         // Move cursor focus to the input box.
         newSymbolTextBox.setFocus(true);
 
-        // Listen for mouse events on the Add button.
+        // Listen for mouse events on the Add button. hjhjhjhj
         addStockButton.addClickHandler(event -> addStock());
 
         // Listen for keyboard events in the input box.
