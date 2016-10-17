@@ -45,6 +45,13 @@ public class StockWatcher implements EntryPoint {
         mainPanel.add(addPanel);
         mainPanel.add(lastUpdatedLabel);
 
+        /**
+         * scheiße pisse kacke
+         *
+         *
+         *
+         */
+
         // Associate the Main panel with the HTML host page.
         RootPanel.get("stockList").add(mainPanel);
 
